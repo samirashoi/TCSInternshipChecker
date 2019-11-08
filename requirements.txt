@@ -1,0 +1,9 @@
+certifi==2019.9.11
+chardet==3.0.4
+dbus-python==1.2.12
+idna==2.8
+notify2==0.3.1
+requests==2.22.0
+selenium==3.141.0
+timeloop==1.0.2
+urllib3==1.25.6
