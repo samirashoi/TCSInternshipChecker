@@ -14,7 +14,7 @@ A tool to check the number of internships being offered at the [TCS Campus Commu
 2. Run `pip install -r requirements.txt` in order to install all dependencies. [Installing dependencies in a virtual environment is recommended.](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/).
 3. Run `python notifier.py` and receive notifications on your Linux environment every 3 minutes.
 
-####Note
+### Note
 
 Please check your Chrome version and replace the `chromedriver` binary with the version compatible with your Google Chrome version from [here](https://chromedriver.chromium.org/downloads).
 
