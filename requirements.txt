@@ -6,4 +6,4 @@ notify2==0.3.1
 requests==2.22.0
 selenium==3.141.0
 timeloop==1.0.2
-urllib3==1.25.6
+urllib3==1.25.8
